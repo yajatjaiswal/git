@@ -1,0 +1,31 @@
+[33mcommit 34a6d7f76dd121e41a40e0c2194a82a1d95c1d14[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yajat <yajat@webkorps.com>
+Date:   Fri Oct 21 17:39:14 2022 +0530
+
+    Added more htmls
+
+[1mdiff --git a/about.html b/about.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..56efbdb[m
+[1m--- /dev/null[m
+[1m+++ b/contact.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/monuments.html b/monuments.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
